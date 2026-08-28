@@ -1,2 +1,3 @@
 # demo-
-just learning the git
+just learnining good
+
