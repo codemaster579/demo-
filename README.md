@@ -1,2 +1,2 @@
-# demo-
-just learning the git
+hi how are you
+
